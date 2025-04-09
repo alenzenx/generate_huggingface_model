@@ -1,0 +1,7 @@
+git+https://github.com/huggingface/transformers
+accelerate
+datasets
+bitsandbytes
+qwen-vl-utils
+ruff
+libcst
