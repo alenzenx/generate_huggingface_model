@@ -1,4 +1,4 @@
-# This repo can teach you how to edit and custom Hugging Face format LLM model
+# This repo can teach you how to edit and custom Hugging Face format LLM
 
 ## Quick Start
 
