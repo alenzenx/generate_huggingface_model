@@ -31,7 +31,7 @@ cd transformers
 pip install -e .
 ```
 
-## Officially recommended "modular calling" large language model local editing solution : use modular_*.py and configuration_*.py generate modeling_*.py (this is qwen official editing method)
+## Officially recommended "modular calling" LLM local editing solution : use modular_*.py and configuration_*.py generate modeling_*.py (this is qwen official editing method)
 
 
 #### (In this example)
